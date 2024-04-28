@@ -140,7 +140,7 @@
                                                             <constraint firstAttribute="height" constant="29" id="fbB-VX-a2s"/>
                                                         </constraints>
                                                         <connections>
-                                                            <action selector="stepperValuesChanged:" destination="BYZ-38-t0r" eventType="valueChanged" id="KWK-7x-wJ5"/>
+                                                            <action selector="stepperValueChanged:" destination="BYZ-38-t0r" eventType="valueChanged" id="GbM-eu-bmf"/>
                                                         </connections>
                                                     </stepper>
                                                 </subviews>
